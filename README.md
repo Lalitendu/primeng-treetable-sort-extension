@@ -5,9 +5,7 @@ Example
 
 [selector -->  ext-treeTable]
 
-<ext-treeTable [value]="files1">
-
-        <p-header>Basic</p-header>
+<ext-treeTable [value]="files1">   <p-header>Basic</p-header>
 	
         <p-column field="name" [sortable]="true" header="Name"></p-column>              
         
