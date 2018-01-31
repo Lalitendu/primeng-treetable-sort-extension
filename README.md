@@ -7,7 +7,6 @@ Example
 
 
 <ext-treeTable [value]="files1">
-        
         <p-header>Basic</p-header>
 	
         <p-column field="name" [sortable]="true" header="Name"></p-column>              
@@ -16,7 +15,6 @@ Example
         
         
         <p-column field="type" [sortable]="true" header="Type"></p-column>
-
 </ext-treeTable>
 
 This will display the treetable with sort option.
