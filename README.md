@@ -15,5 +15,5 @@ Example
         <p-column field="type" [sortable]="true" header="Type"></p-column> </ext-treeTable>
 
 
-This will display the treetable with sort option.
+This will display the treetable columns with sort option.
 Please import the source files used in the component from primeNG master code base.
